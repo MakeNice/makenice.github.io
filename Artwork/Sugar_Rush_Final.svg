@@ -128,7 +128,7 @@
 <image overflow="visible" enable-background="new    " width="2032" height="1360" id="hotspot-hightea" xlink:href="Tea2.png"  transform="matrix(0.2711 0 0 0.2711 1727.8475 1319.3854)">
 </image>
 <g id="hotspot-mountain">
-	
+
 		<image overflow="visible" enable-background="new    " width="884" height="589" xlink:href="Sugar_pile.png"  transform="matrix(1.7917 1.973886e-02 -1.973886e-02 1.7917 121.1305 2270.1223)">
 	</image>
 </g>
@@ -4694,7 +4694,7 @@
 </image>
 <image overflow="visible" enable-background="new    " width="800" height="800" id="hotspot-dessert" xlink:href="void.png"  transform="matrix(1.2728 0 0 1.2728 1079.4414 167.8087)">
 </image>
-<image overflow="visible" enable-background="new    " width="739" height="1093" id="hotspot-statue" xlink:href="Subtle.png"  transform="matrix(0.4876 3.703485e-02 -3.703485e-02 0.4876 1291.1666 720.9874)">
+<image overflow="visible" enable-background="new    " width="739" height="1093" class="statue-hover" id="hotspot-statue" xlink:href="Subtle.png"  transform="matrix(0.4876 3.703485e-02 -3.703485e-02 0.4876 1291.1666 720.9874)">
 </image>
 <g>
 	<g>
