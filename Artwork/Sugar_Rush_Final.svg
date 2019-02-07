@@ -4694,7 +4694,7 @@
 </image>
 <image overflow="visible" enable-background="new    " width="800" height="800" id="hotspot-dessert" xlink:href="void.png"  transform="matrix(1.2728 0 0 1.2728 1079.4414 167.8087)">
 </image>
-<image overflow="visible" enable-background="new    " width="739" height="1093" class="statue-hover" id="hotspot-statue" xlink:href="Subtle.png"  transform="matrix(0.4876 3.703485e-02 -3.703485e-02 0.4876 1291.1666 720.9874)">
+<image overflow="visible" enable-background="new    " width="739" height="1093" id="hotspot-statue" xlink:href="Subtle.png"  transform="matrix(0.4876 3.703485e-02 -3.703485e-02 0.4876 1291.1666 720.9874)">
 </image>
 <g>
 	<g>

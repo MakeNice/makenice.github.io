@@ -154,3 +154,8 @@ body {
     width: 170px;
     height: 215px;
 }
+
+#hotspot-statue:hover {
+    fill: #ec008c;
+    opacity: 1;
+}
