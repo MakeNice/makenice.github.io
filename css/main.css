@@ -155,7 +155,7 @@ body {
     height: 215px;
 }
 
-#hotspot-statue:hover {
+.test:hover {
     fill: #ec008c;
     opacity: 1;
 }
