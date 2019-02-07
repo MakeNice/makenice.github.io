@@ -154,8 +154,3 @@ body {
     width: 170px;
     height: 215px;
 }
-
-.test:hover {
-    fill: #ec008c;
-    opacity: 1;
-}
