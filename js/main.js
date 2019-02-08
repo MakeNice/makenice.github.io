@@ -17,19 +17,25 @@ function loadCopy(cb) {
 
 function setUpLayer(layer, name) {
     //layer.setAttribute("fill", "transparent")
+    var copy = copyJSON.hotspots[name];
+
     layer.onclick = function () {
-
-        var copy = copyJSON.hotspots[name];
-
         if (copy) {
-
             //show popup!
             mask.classList.add('visible');
-
             popupHeader.innerText = copy.title;
             popupBody.innerText = copy.body;
             popup.style.opacity = '1';
         }
+    }
+    if (copy)
+        layer.style.cursor = 'pointer';
+
+    layer.onmouseover = function () {
+    }
+
+
+    layer.onmouseout = function () {
     }
 }
 
